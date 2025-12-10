@@ -18,14 +18,14 @@ netflix-visualization-project/
 ├── netflix_titles.csv           # Raw dataset
 ├── netflix_dashboard.pbix       # Power BI dashboard file
 ├── README.md                   # Project documentation and usage guide
-│
+├── 
 ├── /screenshots                # Screenshots of Power BI visualizations
 │     ├── genre_distribution.png
 │     ├── country_availability.png
 │     └── seasonal_trends.png
 │
-└── /reports                    # Textual analysis
-└── analysis_summary.md
+                    # Textual analysis
+
 ```
 
 ---
