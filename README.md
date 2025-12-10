@@ -12,6 +12,7 @@ The goal is to create an interactive Power BI dashboard that answers business qu
 ---
 
 ## 📂 Project Structure
+```
 netflix-visualization-project/
 │
 ├── netflix_titles.csv           # Raw dataset
@@ -25,6 +26,7 @@ netflix-visualization-project/
 │
 └── /reports                    # Textual analysis
 └── analysis_summary.md
+```
 
 ---
 
@@ -38,6 +40,8 @@ cd netflix-content-analysis
 3.	Explore the interactive dashboards and use slicers to filter by genre, country, or year.
 4.	View the screenshots in /screenshots for static visuals.
 
+---
+
 ## 📊 Key Insights
 - Distribution of genres in the Netflix catalog.
 - Number of countries where Netflix content is available.
@@ -45,11 +49,17 @@ cd netflix-content-analysis
 - Dominant genres by country.
 - Seasonal patterns of content addition.
 
+---
+
 ## 🤝 Contributing
 Feel free to fork this repository and submit pull requests for improvements.
 
+---
+
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
+
+---
 
 ## 📌 Author
 - **Marouan Mehdi Belkaaloul** - Data Analysis Enthusiast
